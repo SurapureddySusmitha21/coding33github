@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+}
+.popular-heading {
+  color: black;
+  font-family: 'Lobster';
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+.ul-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.ul-second-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
